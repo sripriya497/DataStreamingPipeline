@@ -1,4 +1,4 @@
-# Real-Time Stock Data Pipeline with Kafka & AWS: From Ingestion to Insight
+# Real-Time Data Pipeline with Kafka & AWS: From Ingestion to Insight
 
 Inspirations from [@airscholar's]([airscholar](https://github.com/airscholar)) project on [data-engineering](https://github.com/airscholar/e2e-data-engineering)
 
